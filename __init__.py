@@ -1,7 +1,8 @@
 DOMAIN = "homeassistant_perplexity"
 
 async def async_setup(hass, config):
-    hass.states.async_set("hello_state.world", "Paulus")
+
+    print("Hopefully this gets printed to the logs")
 
     # Return boolean to indicate that initialization was successful.
     return True
