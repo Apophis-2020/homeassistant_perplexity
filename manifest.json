@@ -1,6 +1,8 @@
 {
   "domain": "homeassistant_perplexity",
   "name": "Perplexity AI",
+  "codeowners": ["@Apophis-2020"],
   "version": "0.1.0",
+  "integration_type": "service",
   "requirements": ["openai"],
 }
