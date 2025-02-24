@@ -1,0 +1,10 @@
+{
+  "domain": "perplexity",
+  "name": "Perplexity AI",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/Apophis-2020/homeassistant-perplexity/",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
